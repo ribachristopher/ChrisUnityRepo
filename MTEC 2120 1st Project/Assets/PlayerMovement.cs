@@ -5,7 +5,6 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float speed;
-
     void Update()
 
 // Move Right
